@@ -72,9 +72,9 @@
             // 
             // btnCong
             // 
-            this.btnCong.Location = new System.Drawing.Point(331, 246);
+            this.btnCong.Location = new System.Drawing.Point(355, 246);
             this.btnCong.Name = "btnCong";
-            this.btnCong.Size = new System.Drawing.Size(75, 33);
+            this.btnCong.Size = new System.Drawing.Size(95, 33);
             this.btnCong.TabIndex = 4;
             this.btnCong.Text = "Cộng";
             this.btnCong.UseVisualStyleBackColor = true;
@@ -98,9 +98,9 @@
             // 
             // btnTru
             // 
-            this.btnTru.Location = new System.Drawing.Point(234, 246);
+            this.btnTru.Location = new System.Drawing.Point(221, 246);
             this.btnTru.Name = "btnTru";
-            this.btnTru.Size = new System.Drawing.Size(75, 33);
+            this.btnTru.Size = new System.Drawing.Size(88, 33);
             this.btnTru.TabIndex = 7;
             this.btnTru.Text = "Trừ";
             this.btnTru.UseVisualStyleBackColor = true;
