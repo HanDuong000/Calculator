@@ -15,5 +15,10 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        private void btnCong_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
